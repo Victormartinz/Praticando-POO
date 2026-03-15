@@ -11,15 +11,8 @@ public class Main {
         noitesBrancas.exibirInformacoes();
 
         //Chamando o metodo para verificar se o livro é grande ou pequeno
-        boolean grandeOuPequeno = noitesBrancas.ehGrande(true);
-
-        //criando a condição para a verificação
-        if (noitesBrancas.numeroPaginas > 300){
-            System.out.println("O Livro " + noitesBrancas.titulo + " é Grande? " + grandeOuPequeno );
-        }else {
-            grandeOuPequeno = false;
-            System.out.println("O Livro " + noitesBrancas.titulo + " é Grande? " + grandeOuPequeno );
-        }
+        boolean grandeOuPequeno = noitesBrancas.ehGrande();
+        System.out.println("O livro é grande? " + grandeOuPequeno);
 
         System.out.println("========================================");
 
@@ -33,15 +26,11 @@ public class Main {
         annaKaranina.exibirInformacoes();
 
         //chamando o metodo boolean para verificar se é grande ou pequeno
-        grandeOuPequeno = annaKaranina.ehGrande(true);
+        grandeOuPequeno = annaKaranina.ehGrande();
+        System.out.println("O livro é grande? " + grandeOuPequeno);
 
-        //criando a condição para a verificação
-        if (annaKaranina.numeroPaginas > 300){
-            System.out.println("O Livro " + annaKaranina.titulo + "é grande? " + grandeOuPequeno);
-        }else {
-            grandeOuPequeno = false;
-            System.out.println("O Livro " + annaKaranina.titulo + "é grande? " + grandeOuPequeno);
+
         }
     }
-}
+
 

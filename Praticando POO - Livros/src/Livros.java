@@ -11,7 +11,7 @@ public class Livros {
 
     }
 
-    public boolean ehGrande (boolean livroGrande){
-        return livroGrande = true;
+    public boolean ehGrande (){
+        return numeroPaginas > 300;
     }
 }
