@@ -5,7 +5,7 @@ public class Main {
         Livros noitesBrancas = new Livros();
         noitesBrancas.titulo = "Noites Brancas";
         noitesBrancas.autor = "Fiódor Dostoiévsk";
-        noitesBrancas.numeroPaginas = 301;
+        noitesBrancas.numeroPaginas = 96;
 
         //chamando o metodo de exibição para o objeto noites brancas
         noitesBrancas.exibirInformacoes();
@@ -17,6 +17,14 @@ public class Main {
         }else {
             System.out.println("O Livro " + noitesBrancas.titulo + " é Grande? " + false );
         }
+
+        //criando um objeto chamado Anna Karanina, um livro classico
+        Livros annaKaranina = new Livros();
+        annaKaranina.titulo = "Anna Karanina";
+        annaKaranina.autor = "Liev Tolstó";
+        annaKaranina.numeroPaginas = 808;
+
+
 
     }
 }
