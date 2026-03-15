@@ -5,7 +5,9 @@ public class Livros {
     String autor;
 
     public void exibirInformacoes (){
-        System.out.println("Livro: " + titulo +  " Autor: " + autor + " Número De Páginas: " + numeroPaginas);
+        System.out.println("Livro: " + titulo + "\n"  +
+                "Autor: " + autor + "\n" +
+                "Número De Páginas: " + numeroPaginas);
 
     }
 
