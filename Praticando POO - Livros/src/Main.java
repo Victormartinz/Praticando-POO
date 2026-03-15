@@ -5,10 +5,18 @@ public class Main {
         Livros noitesBrancas = new Livros();
         noitesBrancas.titulo = "Noites Brancas";
         noitesBrancas.autor = "Fiódor Dostoiévsk";
-        noitesBrancas.numeroPaginas = 96;
+        noitesBrancas.numeroPaginas = 301;
 
         //chamando o metodo de exibição para o objeto noites brancas
         noitesBrancas.exibirInformacoes();
+
+        //Chamando o metodo para verificar se o livro é grande ou pequeno
+        boolean grandeOuPequeno = noitesBrancas.ehGrande(true);
+        if (noitesBrancas.numeroPaginas > 300){
+            System.out.println("O Livro " + noitesBrancas.titulo + " é Grande? " + true );
+        }else {
+            System.out.println("O Livro " + noitesBrancas.titulo + " é Grande? " + false );
+        }
 
     }
 }

@@ -9,4 +9,7 @@ public class Livros {
 
     }
 
+    public boolean ehGrande (boolean livroGrande){
+        return livroGrande = true;
+    }
 }
