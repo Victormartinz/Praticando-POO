@@ -8,7 +8,7 @@ public class Main {
         noitesBrancas.numeroPaginas = 96;
 
         //chamando o metodo de exibição para o objeto noites brancas
-
+        noitesBrancas.exibirInformacoes();
 
     }
 }
