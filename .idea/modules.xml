@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA POO.iml" filepath="$PROJECT_DIR$/.idea/JAVA POO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Praticando POO/Praticando POO - Carros.iml" filepath="$PROJECT_DIR$/Praticando POO/Praticando POO - Carros.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Praticando POO - Livros/Praticando POO - Livros.iml" filepath="$PROJECT_DIR$/Praticando POO - Livros/Praticando POO - Livros.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Praticando POO - Retangulo/Praticando POO - Retangulo.iml" filepath="$PROJECT_DIR$/Praticando POO - Retangulo/Praticando POO - Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO/Praticando POO - Carros.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO/Praticando POO - Carros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO - Livros/Praticando POO - Livros.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO - Livros/Praticando POO - Livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO - Retangulo/Praticando POO - Retangulo.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO - Retangulo/Praticando POO - Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO - Temperatura/Praticando POO - Temperatura.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO - Temperatura/Praticando POO - Temperatura.iml" />
     </modules>
   </component>
 </project>
