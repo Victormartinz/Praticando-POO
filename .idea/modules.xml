@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Analista Salario/Analista Salario.iml" filepath="$PROJECT_DIR$/Analista Salario/Analista Salario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Analista de Salario/Analista de Salario.iml" filepath="$PROJECT_DIR$/Metodos/Analista de Salario/Analista de Salario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle Estoque/Controle Estoque.iml" filepath="$PROJECT_DIR$/Controle Estoque/Controle Estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA POO.iml" filepath="$PROJECT_DIR$/.idea/JAVA POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos em POO/Metodos em POO.iml" filepath="$PROJECT_DIR$/Metodos em POO/Metodos em POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO/Praticando POO - Carros.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO/Praticando POO - Carros.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO - Retangulo/Praticando POO - Retangulo.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO - Retangulo/Praticando POO - Retangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO - Temperatura/Praticando POO - Temperatura.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO - Temperatura/Praticando POO - Temperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Salario/Salario.iml" filepath="$PROJECT_DIR$/Metodos/Salario/Salario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste Aluno/Teste Aluno.iml" filepath="$PROJECT_DIR$/Teste Aluno/Teste Aluno.iml" />
     </modules>
   </component>
 </project>
