@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Analista Salario/Analista Salario.iml" filepath="$PROJECT_DIR$/Analista Salario/Analista Salario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Analista de Salario/Analista de Salario.iml" filepath="$PROJECT_DIR$/Metodos/Analista de Salario/Analista de Salario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conta Bancaria/Conta Bancaria.iml" filepath="$PROJECT_DIR$/Conta Bancaria/Conta Bancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/Controle Estoque/Controle Estoque.iml" filepath="$PROJECT_DIR$/Controle Estoque/Controle Estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA POO.iml" filepath="$PROJECT_DIR$/.idea/JAVA POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos em POO/Metodos em POO.iml" filepath="$PROJECT_DIR$/Metodos em POO/Metodos em POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metodos/Praticando POO/Praticando POO - Carros.iml" filepath="$PROJECT_DIR$/Metodos/Praticando POO/Praticando POO - Carros.iml" />
